@@ -1,0 +1,4 @@
+training_model/data
+training_model/graphs
+/*.h5
+/*.tflite
